@@ -4,6 +4,15 @@ A comprehensive Machine Learning project that demonstrates the complete implemen
 
 ---
 
+# 🎥 Project Explanation Video
+
+A complete explanation of the project, including code walkthrough, implementation, and model workflow, is available here:
+
+**▶️ Watch Video:**  
+https://drive.google.com/file/d/1nKLz1YvDNmiAju2i18JFfT0ajXLBZULV/view?usp=drive_link
+
+---
+
 # Overview
 
 House price prediction is one of the most common regression problems in Machine Learning. This project focuses on analyzing real estate data and building predictive models to estimate house prices based on various property features.
