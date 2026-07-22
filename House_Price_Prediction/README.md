@@ -4,6 +4,26 @@ A comprehensive Machine Learning project that predicts residential property pric
 
 ---
 
+# House Price Prediction using Machine Learning
+
+<div align="center">
+
+### Project Resources
+
+📂 **Project Notebook & Documentation**
+
+**Google Drive:**  
+https://drive.google.com/file/d/19lFC4w-tEM8uTNHNQxscp2BjTxBzOVJz/view?usp=drive_link
+
+> Download the complete project notebook, documentation, and supporting files from the Google Drive link above.
+
+</div>
+
+---
+
+A comprehensive Machine Learning project that predicts residential property prices using advanced regression algorithms. The project demonstrates the complete end-to-end machine learning workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model development, hyperparameter tuning, and performance comparison.
+
+---
 # Overview
 
 Accurate house price prediction is one of the most common regression problems in Machine Learning. Real estate companies, property investors, banks, and home buyers rely on predictive models to estimate property values based on various property features.
